@@ -9,6 +9,5 @@ Hello, I'm developing my protocol in this repository.
 **Thank:**
 [libsodium](https://github.com/jedisct1/libsodium)
 
-***Developers:***
-
+**Developers:**
 [oxxximif | oxxx1Storm](https://t.me/oxxximif)
