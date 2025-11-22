@@ -1,4 +1,4 @@
-## GUlib
+## gulib
 
 Hello, I'm developing my protocol in this repository.
 
