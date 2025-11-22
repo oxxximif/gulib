@@ -55,4 +55,7 @@ target_compile_options(gulib_server PRIVATE -O3 -march=native -flto)
 target_link_options(gulib_client PRIVATE -flto)
 target_link_options(gulib_server PRIVATE -flto)
 
+target_include_directories(gulib_client PRIVATE src)
+target_include_directories(gulib_server PRIVATE src)
+
 message(STATUS "gulib успешно настроен с libsodium!")

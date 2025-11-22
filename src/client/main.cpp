@@ -6,6 +6,7 @@ Copyright 2025 oxxxiStorm.
 */
 
 #include <iostream>
+#include <protocol/protocol.h>
 
 int main() {
     std::cout << "Client run\n";
