@@ -1,0 +1,27 @@
+# Build
+build/
+cmake-build-*/
+out/
+
+
+# Windows 
+Thumbs.dp
+Desktop.ini
+.vscode/
+.idea/
+.code-workspace
+.sln
+.vcproj*
+
+# Files
+.exe
+.pdb
+.ilk
+.obj
+.o
+.a
+.lib
+.dll
+.log
+.tmp
+.cache
